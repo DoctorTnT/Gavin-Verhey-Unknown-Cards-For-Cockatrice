@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>GVU</name>
+      <longname>Gavin’s Unknown Event Cards</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Urza&apos;s Hot Dog Stand</name>
+      <set rarity="uncommon">GVU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact Land - Urza’s Vehicle </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Hexproof from Red
+{T}: Add {C}
+{7}, {T}: Create two Food tokens named Hot Dog. Whenever you sacrifice a Hot Dog, create a Treasure token
+Food Crew 2 (Tap two Foods you control: This Vehicle becomes an artifact creature until end of turn)
+“Hold the ketchup”</text>
+      <related count="2">Hot Dog</related>
+    </card>
+    <card>
+      <name>The Water Maro</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>1GWU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When you cast The Water Maro, create a token that’s a copy of it, except the copy isn’t legendary. 
+The Water Maro’s power and toughness are each equal to the number of permanents you control that are tokens and/or have the word “Maro” in the name. </text>
+      <related>The Water Maro (Copy)</related>
+    </card>
+    <card>
+      <name>The Fish Brewer</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When The Fish Brewer enters the battlefield or attacks, create a 1/1 Fish creature token that’s all colors. 
+If another permanent entering the battlefield causes a triggered ability or a permanent you control to trigger, tap any number of Fish you control. That ability triggers an additional time for each Fish tapped this way.</text>
+      <related>Fish</related>
+    </card>
+    <card>
+      <name>The Crab Queen</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Crab Human </type>
+        <maintype>Creature</maintype>
+        <pt>1/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever The Crab Queen attacks, create a token that’s a copy of one of the following at random: Skitter Eel;Skittering Crustacean; Ruin Crab; Charix, The Raging Isle; Scuttletide; or Heartstone</text>
+      <related>Skitter Eel</related>
+      <related>Skittering Crustacean</related>
+      <related>Ruin Crab</related>
+      <related>Charix, the Raging Isle</related>
+      <related>Scuttletide</related>
+      <related>Heartstone</related>
+    </card>
+    <card>
+      <name>Ate-o&apos;-Clock</name>
+      <set rarity="uncommon">GVU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Populate. Proliferate. Investigate. Regenerate target creature. 
+Replicate 2G (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+</text>
+    </card>
+    <card>
+      <name>The Keeper of Favorite Cards</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When The Keeper of Favorite Cards enters the battlefield or attacks, name a nonland card and write it on your favorite list for this game. (You can have limitless favorites)
+Your favorite creatures get +1/+0.
+Whenever you cast a favorite noncreature spell, create a 1/1 white Soldier creature token.</text>
+    </card>
+    <card>
+      <name>The Water Maro (Copy)</name>
+      <set rarity="">GVU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The Water Maro’s power and toughness are each equal to the number of permanents you control that are tokens and/or have the word “Maro” in the name. </text>
+    </card>
+    <card>
+      <name>Fish</name>
+      <set rarity="common">GVU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Creature - Fish </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This card is all colors.</text>
+    </card>
+    <card>
+      <name>Hot Dog</name>
+      <set rarity="common">GVU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice this artifact. You gain 3 life. 
+
+Whenever you sacrifice this artifact, create a treasure token.</text>
+      <related>Treasure Token</related>
+    </card>
+    <card>
+      <name>My deck is About a Seven</name>
+      <set rarity="common">GVU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a number between 6 and 8. My deck is About a Seven deals that much damage to target creature.</text>
+    </card>
+    <card>
+      <name>The Asker of More Mana</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Any time a player would pay a mana cost for anything, it costs {1} more mana to activate. (This includes casting spells, activating abilities, turning face-down creatures face up, paying for Ghostly Prison, the weird ability on Quenchable Fire, etc.)</text>
+    </card>
+    <card>
+      <name>The Curve Keeper</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control get +X/+0, where X is the greatest number of consecutive nonland, nontoken permanents in a mana curve you control. (For example, if you have permanents with mana value 3, {4}, and {5}, creatures you control get +3/+0. If you’re missing {4}, they only get +1/+0.)</text>
+    </card>
+    <card>
+      <name>The Knight of Weeks</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink, vigilance, first strike
+At the beginning of your combat step and whenever another Knight enters the battlefield under your control, put a day counter on The Knight of Weeks.
+The Knight of Weeks gets +7/+7 for every seven day counters on it.</text>
+    </card>
+    <card>
+      <name>The Rhystic Storyteller</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If The Rhystic Storyteller is your Commander, your deck can’t use sleeves.
+Whenever you cast a spell with ten or more words of flavor text, draw a card unless an opponent pays {1}.</text>
+    </card>
+    <card>
+      <name>The Value Knight</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When The Value Knight enters the battlefield, create Syr Acha, a 1/1 legendary red artifact creature Food Knight token with “{2}, {T}, Sacrifice this token: You gain 3 life. Until end of turn, if you would draw a card, draw two cards instead.”
+Whenever you draw a card, put a +1/+1 counter on The Value Knight.</text>
+      <related>Syr Acha</related>
+    </card>
+    <card>
+      <name>Syr Acha</name>
+      <set rarity="common">GVU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Legendary Artifact Creature - Food Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
+    </card>
+    <card>
+      <name>The Disciple of Vess</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever The Disciple of Vess attacks, you may put a planeswalker card from your hand onto the battlefield. If you don’t create a token that’s a copy of a Liliana planeswalker chosen at random. (There are currently thirteen. Perhaps look up the list and roll a D20?)</text>
+      <related>Liliana, Death Mage</related>
+      <related>Liliana, Death&apos;s Majesty</related>
+      <related>Liliana, Death Wielder</related>
+      <related>Liliana, Dreadhorde General</related>
+      <related>Liliana, Heretical Healer</related>
+      <related>Liliana of the Dark Realms</related>
+      <related>Liliana of the Veil</related>
+      <related>Liliana, the Last Hope</related>
+      <related>Liliana, the Necromancer</related>
+      <related>Liliana, Untouched by Death</related>
+      <related>Liliana Vess</related>
+      <related>Liliana, Waker of the Dead</related>
+      <related>Professor Onyx</related>
+    </card>
+    <card>
+      <name>Halving Season</name>
+      <set rarity="uncommon">GVU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If an opponent would create one or more tokens, they create half that many of each of those kinds of tokens instead, rounded down.
+If an opponent would put one or more counters on a permanent or player, they put half that many of each of those kinds of counters on that permanent or player instead, rounded down.</text>
+    </card>
+    <card>
+      <name>Impressive Rat</name>
+      <set rarity="uncommon">GVU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Impressive Rat dies, put a hole counter on target land you don’t control. Whenever that land becomes tapped, you investigate. (The land continues to intrigue.)</text>
+    </card>
+    <card>
+      <name>The Keeper of Dark Pacts</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you lose 1 life and draw a card. Then, double the amount of life you lose and cards you draw for the rest of the game from this ability. (This is true even if this leaves the battlefield and returns.)</text>
+    </card>
+    <card>
+      <name>The Crafter</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for artifacts
+When The Crafter enters the battlefield, create two colorless Scrap artifact tokens (They have no abilities.)
+{T}, Sacrifice an artifact: Create an equipment token named Bling with “Equipped creature gets +1/+0” and “Equip {1}.”</text>
+      <related count="2">Scrap</related>
+      <related>Bling</related>
+    </card>
+    <card>
+      <name>Scrap</name>
+      <set rarity="common">GVU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Bling</name>
+      <set rarity="common">GVU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Artifact - Equipment  </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+0.
+Equip 1</text>
+    </card>
+    <card>
+      <name>The Crimson Avenger</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When The Crimson Avenger enters the battlefield, choose target spell an opponent controls. Reveal cards from the top of your library until you reveal a card that shares a mana value with it. Cast that card without paying its mana cost. Then shuffle your library.</text>
+    </card>
+    <card>
+      <name>Guess Who it Is!</name>
+      <set rarity="uncommon">GVU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top ten cards of target opponent’s library and choose a creature card from among them. That opponent asks you five yes or no questions about that creature. (Answer truthfully!) Then that player chooses a card name. Reveal the card. If it doesn’t have that name, put it onto the battlefield under your control. Then shuffle each card not put onto the battlefield this way into its owner’s library.</text>
+    </card>
+    <card>
+      <name>The Knight of Land Drops</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Partner with Knight (You may select any legendary Knight to be this creature’s partner. It doesn’t have to have partner. You don’t search for a Knight when this enters the battlefield.)
+Knights you control have haste and “At the beginning of your end step, if you didn’t play a land this turn, you may discard a card, then draw a card.”</text>
+    </card>
+    <card>
+      <name>The Bear Force Pilot</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Bear Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When The Bear Force Pilot enters the battlefield, create a colorless artifact Vehicle token with flying, “This creature gets +1/+1 for each Bear you control,” and Crew 2.</text>
+      <related>Bear Force One</related>
+    </card>
+    <card>
+      <name>Bear Force One</name>
+      <set rarity="common">GVU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Token Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+This creature gets +1/+1 for each Bear you control.
+Crew 2</text>
+    </card>
+    <card>
+      <name>The Roaring Toeclaws</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever The Roaring Toeclaws or another creature you control with mana value five or greater becomes untapped, put +1/+1 counters on it equal to its power.</text>
+    </card>
+    <card>
+      <name>The Beleaguered Boxer</name>
+      <set rarity="mythic">GVU</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The Beleaguered Boxer can’t be your Commander unless your deck is 100 cards and originally built out of no more than 36 booster packs, plus basic lands.
+When The Beleaguered Boxer enters the battlefield, open a Magic booster pack. Remove up to three cards in your hand or graveyard from your deck permanently. For each card removed this way, add a card from that pack [to] your hand. Those cards are now permanently part of your deck.</text>
+    </card>
+    <card>
+      <name>The Spike Cactus</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Spike </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The Spike Cactus enters the battlefield with +1/+1 counters on it equal to the amount of mana spent to cast it.
+{2}, Remove a +1/+1 counter from The Spike Cactus: Put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>The Collector</name>
+      <set rarity="mythic">GVU</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Gamer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a signed spell or play a signed land, copy it. (A signed card is a card signed by its artist, designer, or someone else it’s strongly associated with.)
+Discard a signed card: Do whatever the solved Unknown Event puzzle says!
+Prize Card for the Unknown events at MagicCon Chicago, February 24-25, 2024.</text>
+    </card>
+    <card>
+      <name>The Dogronmaster</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>2RGW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Dragon Dog </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever The Dogronmaster or another Dragon or Dog enters the battlefield under your control, create a token that’s a copy of the card Armadillo Cloak and attach it to that creature.</text>
+      <related>Armadillo Cloak</related>
+    </card>
+    <card>
+      <name>The Duke of Midrange</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>2BRG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Lhurgoyf  Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When The Duke of Midrange enters the battlefield, choose one of Thoughtseize, Lightning Bolt, or Abrupt Decay. Cast a copy of the chosen card.
+The Duke of Midrange’s power is equal to the number of card types among all cards in all graveyards. and its toughness is equal to that number plus 1.</text>
+      <related>Thoughtseize</related>
+      <related>Lightning Bolt</related>
+      <related>Abrupt Decay</related>
+    </card>
+    <card>
+      <name>The Scholar of Seas</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>1GWU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Merfolk Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Merfolk you control get +1/+1.
+When The Scholar of Seas enters the battlefield, choose one of the following cards at random and create a copy of it: Judge of Currents; Merrow Reejerey; Lord of Atlantis; Merfolk Sovereign; Sygg, River Guide; Kumena; or Tyrant of Orazca</text>
+      <related>Judge of Currents</related>
+      <related>Merrow Reejerey</related>
+      <related>Lord of Atlantis</related>
+      <related>Merfolk Sovereign</related>
+      <related>Sygg, River Guide</related>
+      <related>Kumena, Tyrant of Orazca</related>
+    </card>
+    <card>
+      <name>The Sprinkler of Stardust</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever The Sprinkler of Stardust attacks, look at the top six cards of your library. You may put an instant or sorcery cards from among them onto the battlefield tapped and attacking. It becomes a 2/2 creature with “Whenever this deals combat damage to an opponent, cast a copy of this card.” (The 2/2 creature stays on the battlefield.) Put the rest of the cards on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>The Rebellious Intelligence</name>
+      <set rarity="rare">GVU</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Artifact Creature - Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, put a random card from outside the game into your hand. (In Commander sealed, that’s everything you didn’t play with. In any other commander game, find a way to select a random Magic card.)
+{T}: Add WUBRG. This mana can’t be spent to pay generic mana costs.</text>
+    </card>
+    <card>
+      <name>Deep Dish Pizza</name>
+      <set rarity="common">GVU</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Suspend 2— {2} (Deep Dish Pizza has no mana cost and must be suspended.)
+{2}, Sacrifice Deep Dish Pizza: Gain 3 life, draw three cards, and Deep Dish Pizza deals 3 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Simic Slaw</name>
+      <set rarity="common">GVU</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Food Clue </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever one or more creatures die, put a charge counter on Simic Slaw.
+{2}, Sacrifice Simic Slaw: Draw X cards and gain X life, where X is the number of charge counters on Simic Slaw.</text>
+    </card>
+    <card>
+      <name>That Which Was Compleated</name>
+      <set rarity="uncommon">GVU</set>
+      <prop>
+        <colors></colors>
+        <manacost>8HH</manacost>
+        <cmc>10</cmc>
+        <type>Artifact Creature - Eldrazi Phyrexian Processor </type>
+        <maintype>Creature</maintype>
+        <pt>10/10</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Trash Panda</name>
+      <set rarity="uncommon">GVU</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>4BG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Raccoon Bear  </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Trash Panda enters the battlefield, exile target opponent’s graveyard. Create a Food token for each creature card exiled this way. 
+When Trash Panda dies, put it into target opponent’s graveyard. 
+Opponent dredge 4 (If an opponent would draw a card, instead you may have them mill exactly four cards and put this card into their hand from their graveyard.) </text>
+      <related count="x">Food Token</related>
+    </card>
